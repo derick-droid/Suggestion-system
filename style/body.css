@@ -1,0 +1,12 @@
+.suggestion-box {
+    display: flex;
+}
+.welome-paragraph {
+    font-size: large;
+    font-weight: bold;
+    line-height: 50px;
+    margin-top: 150px;
+    margin-left: 100px;
+    width: 410px;
+    
+}
