@@ -6,6 +6,7 @@
 body {
     display: flex;
     font-family: Robot, Arial;
+    justify-content: space-between;
 }
 h1 {
     text-align: center;
@@ -19,6 +20,7 @@ h1 {
 .form-container {
     padding: 20px;
     display: flex;
+    justify-content: space-between;
     font-size: large;
    
    
@@ -41,6 +43,9 @@ input{
     margin: 10px 10px;
     
    
+}
+.inside-log {
+    display: flex;
 }
 .submit-button {
    margin-left: 600px;
