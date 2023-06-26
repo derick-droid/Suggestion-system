@@ -1,9 +1,13 @@
+body {
+    background-color: rgb(202, 223, 230);
 
+}
 p {
     font-family: Roboto, Arial;
     
 }
 *{
     text-decoration: none;
+
 
 }
