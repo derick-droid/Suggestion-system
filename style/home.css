@@ -1,0 +1,9 @@
+.left-side {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-word {
+    margin-left: 10px;
+}
+
