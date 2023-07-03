@@ -1,0 +1,31 @@
+main {
+    margin-top: 50px;
+    
+}
+.sidebar {
+   
+}
+.compose {
+    background-color:rgb(182, 78, 78);
+    color: white;
+    height: 20px;
+    width: 200px;
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+    border-radius: 10px;
+    cursor: pointer;
+    
+    
+}
+a {
+   
+}
+.compose-message {
+    margin-right: 10px;
+}
+.msg-compose {
+    height: 20px;
+      
+}
