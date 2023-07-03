@@ -2,8 +2,11 @@
 nav {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: top;
+    justify-content: space-between;
 }
+
+/* leftside section */
 .left-side {
     display: flex;
     flex-direction: row;
@@ -13,6 +16,7 @@ nav {
     margin-left: 10px;
 }
 
+/* middle section */
 .middle {
     display: flex;
     flex-direction: row;
@@ -42,4 +46,28 @@ input {
 }
 input:focus {
     outline: none;
+}
+
+/* right section */
+
+.rightside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.msg {
+    height: 50px;
+    cursor: pointer;
+}
+.notification {
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+
+}
+.avatar-icon {
+    height: 50px;
+    margin-left: 10px;
+    cursor: pointer;
 }
