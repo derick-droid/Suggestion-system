@@ -1,3 +1,9 @@
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
 .left-side {
     display: flex;
     flex-direction: row;
@@ -7,3 +13,33 @@
     margin-left: 10px;
 }
 
+.middle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 200px;
+    position: relative;
+    width: 300px;
+    height: 42px;
+    border: solid 2px blue;
+    border-radius: 50px;
+    justify-content: space-between;
+    background-color: white;
+}
+.image-search {
+    height: 20px;
+    width: 20px;
+    margin-left:2px;
+}
+.search {
+    padding: 0 5px;
+}
+input {
+   font-size: 18px;
+   font-weight: 500;
+   border: none;
+
+}
+input:focus {
+    outline: none;
+}
