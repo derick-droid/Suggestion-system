@@ -39,7 +39,7 @@ a:link {
 /* inbox messages */
 
 .inbox {
-    background-color:rgb(12, 178, 233);
+   
     color: white;
     height: 20px;
     width: 200px;
@@ -53,6 +53,12 @@ a:link {
     flex-direction: row;
     margin-top: 10px;
 
+}
+.inbox:hover {
+    background-color:rgb(12, 178, 233);
+}
+.inbox:active {
+    background-color:rgb(12, 178, 233);
 }
 .inbox-message {
     margin-right: 10px;
