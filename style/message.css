@@ -123,4 +123,25 @@ button {
     
 }
 
+.right {
+    margin-left: 0px;
+    margin-top: 0px;
+    align-items: center;
+}
 
+/* text message */
+.suggestion {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.headline-paragraph {
+    color: gray;
+    font-size: 20px;
+    font-weight: 500;
+}
+.previous {
+    background-color: purple;
+    width: 60px;
+    color: white;
+    border-radius: 5px;
+}
