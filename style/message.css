@@ -145,3 +145,21 @@ button {
     color: white;
     border-radius: 5px;
 }
+
+.profile-msg {
+    margin-left: 10px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+.profile-message {
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.me-msg {
+    line-height: 30px;
+}
+.main {
+    line-height: 30px;
+    width: 650px;
+}
