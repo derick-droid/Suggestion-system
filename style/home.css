@@ -81,3 +81,31 @@ input:focus {
     border-radius: 20px;
     cursor: pointer;
 }
+.main-location-one{
+    margin-top: 10px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    height: 500px;
+    border-radius: 20px;
+    display:flex;
+    
+
+
+}
+.main-location-one {
+    margin-top: 10px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    height: 500px;
+    border-radius: 20px;
+    display:flex;
+    
+}
+.department-stores {
+    background-color: green;
+    color: white;
+    padding: 50px;
+    width: 290px;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
