@@ -81,22 +81,22 @@ input:focus {
     border-radius: 20px;
     cursor: pointer;
 }
-.main-location-one{
+.departments {
     margin-top: 10px;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
     height: 500px;
     border-radius: 20px;
-    display:flex;
+    display: flex;
+   
     
 
 
 }
 .main-location-one {
     margin-top: 10px;
-    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
     height: 500px;
     border-radius: 20px;
-    display:flex;
+    
     
 }
 .department-stores {
