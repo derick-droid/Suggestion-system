@@ -1,0 +1,35 @@
+.leftside {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    height: 500px;
+    width: 1000px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.top {
+    margin-left: 30px;
+    color: blue;
+    cursor: pointer;
+    font-weight: 900;
+    font-size: 20px;
+}
+.inboxes-msg {
+    display: flex;
+    background-color: #dddddd;
+
+}
+.inboxes-msg:hover {
+    background-color: rgb(247, 242, 242);
+    cursor: pointer;
+}
+.check {
+    margin-left: 10px;
+}
+.msg-admin {
+    margin-left: 10px;
+}
+.real-msg {
+    margin-left: 50px;
+}
+.time {
+    margin-left: 5px;
+}
