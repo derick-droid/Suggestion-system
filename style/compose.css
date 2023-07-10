@@ -5,6 +5,10 @@
     margin-left: 30px;
     border-radius: 10px;
 }
+.top-paragraph {
+    font-size: 20px;
+    font-weight: 800;
+}
 .textarea {
     background-color: #dddddd;
     color: #666666;
@@ -21,4 +25,14 @@
     max-height: 350px;
     min-width: 850px;
     min-height: 350px;
+    transition: all 0.2s;
+}
+.textarea:hover {
+    cursor: pointer;
+    background-color: #eeeeee;
+}
+.textarea:focus {
+    cursor:text;
+    background-color: #333333;
+    color: white;
 }
