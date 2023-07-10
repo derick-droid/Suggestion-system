@@ -1,3 +1,24 @@
 .leftside {
-    
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    height: 500px;
+    width: 1000px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.textarea {
+    background-color: #dddddd;
+    color: #666666;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    outline: none;
+    font-family: Roboto, Arial;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.4;
+    width: 850px;
+    height: 350px;
+    max-width: 850px;
+    max-height: 350px;
+    min-width: 850px;
+    min-height: 350px;
 }
