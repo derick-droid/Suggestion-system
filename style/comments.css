@@ -1,0 +1,25 @@
+.suggestion-section {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    height: 300px;
+    width: 1000px;
+    margin-top: 30px;
+    margin-left: 130px;
+    border-radius: 20px;
+
+}
+.top {
+    color:white;
+    background-color: blue;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+.department {
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
