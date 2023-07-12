@@ -1,6 +1,6 @@
 .suggestion-section {
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
-    height: 300px;
+    height: 600px;
     width: 1000px;
     margin-top: 30px;
     margin-left: 130px;
@@ -16,10 +16,58 @@
     border-radius: 10px;
 }
 .department {
-    background-color: green;
-    color: white;
+    /* background-color: green; */
+    color:green;
     font-size: 20px;
     padding: 20px;
     border-radius: 20px;
     margin-top: 30px;
+}
+.hosting {
+    color: rgb(48, 46, 46);
+    margin-left: 20px;
+}
+.show-up-comments {
+    background-color: rgb(77, 74, 74);
+    height: 300px;
+    width: 900px;
+    margin-left: 50px;
+    border-radius: 20px;
+    
+
+}
+.conversation-box {
+    display: flex;
+}
+.proc {
+    height: 50px;
+}
+.side-name {
+    color: rgb(202, 199, 199);
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.time {
+    color: rgb(202, 199, 199);
+    margin-top: 20px;
+    margin-left: 50px;
+
+
+}
+/* the message */
+.msg {
+    color: rgb(202, 199, 199);
+    margin-top: 10px;
+    margin-left: 5px;
+    line-height: 30px;
+    width: 500px;
+    
+}
+.conversation-box-one {
+    display: flex;
+    margin-top: 30px;
+    line-height: 10px;
+    
 }
