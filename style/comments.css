@@ -17,7 +17,6 @@
     border-radius: 10px;
 }
 .department {
-    /* background-color: green; */
     color:green;
     font-size: 20px;
     padding: 20px;
@@ -30,6 +29,7 @@
 }
 .show-up-comments {
     background-color: rgb(77, 74, 74);
+    padding: 20px;
     height: 300px;
     width: 900px;
     margin-left: 50px;
