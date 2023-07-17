@@ -117,11 +117,11 @@ a:link {
     height: 30px;
     cursor: pointer;
 }
-button {
+/* button {
     margin-top: 20px;
     margin-left: 20px;
     
-}
+} */
 
 .right {
     margin-left: 0px;
@@ -162,4 +162,13 @@ button {
 .main {
     line-height: 30px;
     width: 650px;
+}
+.symbols {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color:white;
+
+}
+.symbols:hover {
+    background-color: gray;
 }
