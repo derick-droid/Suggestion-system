@@ -3,12 +3,12 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     
-    position: fixed;
+    /* position: fixed;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
-    z-index: 100;
+    z-index: 100; */
 }
 
 .left-side {

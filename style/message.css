@@ -20,6 +20,7 @@ main {
     align-items: center;
     border-radius: 10px;
     cursor: pointer;
+    display: flex;
     
     
 }
@@ -43,8 +44,7 @@ a:link {
 /* inbox messages */
 
 .inbox {
-   
-    color: white;
+   color: black;
     height: 20px;
     width: 200px;
     padding-left: 150px;
