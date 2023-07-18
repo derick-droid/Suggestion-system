@@ -128,3 +128,40 @@ button:hover {
 form {
     display: flex;
 }
+
+/* notification */
+
+.message-icon {
+    position: relative;
+}
+.notification-icon {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.notification-button {
+    position: absolute;
+
+    background-color: red;
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+    border-radius: 25px;
+    font-size: 18px;
+
+   bottom: 100px;
+   right: 0px;
+
+}
+.notification-icon:hover .tooltip{
+    opacity: 1;
+}
+.notification {
+    height: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
