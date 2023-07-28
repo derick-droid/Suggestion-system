@@ -8,12 +8,16 @@
     margin-top: 30px;
     border-radius: 30px;
 }
+
 .title-paragraph {
     margin-top: 30px;
     margin-left: 200px;
     font-size: 30px;
     font-weight: bold;
  
+}
+.main-layout {
+    display: flex;
 }
 .image-proc {
     height: 120px;
@@ -49,4 +53,16 @@
     background-color: rgb(8, 169, 223);
     color: white;
 }
-    
+
+
+/* next-left */
+.next-layout {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 420px;
+    width: 850px;
+    margin-left: 15px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
